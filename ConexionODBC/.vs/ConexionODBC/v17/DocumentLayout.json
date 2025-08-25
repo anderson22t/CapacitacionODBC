@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEFDBE8-B4E0-4B91-A202-1E96FC0BE66B}|ConexionODBC\\ConexionODBC.csproj|c:\\users\\usuario dell\\documents\\anderson 2\\universidad\\octavo semestre\\analisis de sistemas ii\\sistema asignaci\u00F3n de cursos\\conexionodbc\\conexionodbc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEFDBE8-B4E0-4B91-A202-1E96FC0BE66B}|ConexionODBC\\ConexionODBC.csproj|solutionrelative:conexionodbc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEFDBE8-B4E0-4B91-A202-1E96FC0BE66B}|ConexionODBC\\ConexionODBC.csproj|C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\conexionodbc\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEFDBE8-B4E0-4B91-A202-1E96FC0BE66B}|ConexionODBC\\ConexionODBC.csproj|solutionrelative:conexionodbc\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEFDBE8-B4E0-4B91-A202-1E96FC0BE66B}|ConexionODBC\\ConexionODBC.csproj|C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\conexionodbc\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCEFDBE8-B4E0-4B91-A202-1E96FC0BE66B}|ConexionODBC\\ConexionODBC.csproj|solutionrelative:conexionodbc\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEFDBE8-B4E0-4B91-A202-1E96FC0BE66B}|ConexionODBC\\ConexionODBC.csproj|C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\conexionodbc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCEFDBE8-B4E0-4B91-A202-1E96FC0BE66B}|ConexionODBC\\ConexionODBC.csproj|solutionrelative:conexionodbc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEFDBE8-B4E0-4B91-A202-1E96FC0BE66B}|ConexionODBC\\ConexionODBC.csproj|C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\conexionodbc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEFDBE8-B4E0-4B91-A202-1E96FC0BE66B}|ConexionODBC\\ConexionODBC.csproj|solutionrelative:conexionodbc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEFDBE8-B4E0-4B91-A202-1E96FC0BE66B}|ConexionODBC\\ConexionODBC.csproj|C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\conexionodbc\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEFDBE8-B4E0-4B91-A202-1E96FC0BE66B}|ConexionODBC\\ConexionODBC.csproj|solutionrelative:conexionodbc\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\ConexionODBC\\Program.cs",
+              "RelativeDocumentMoniker": "ConexionODBC\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\ConexionODBC\\Program.cs",
+              "RelativeToolTip": "ConexionODBC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T21:15:17.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "principal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\ConexionODBC\\principal.cs",
+              "RelativeDocumentMoniker": "ConexionODBC\\principal.cs",
+              "ToolTip": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\ConexionODBC\\principal.cs",
+              "RelativeToolTip": "ConexionODBC\\principal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAC1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T20:39:33.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\ConexionODBC\\principal.cs",
+              "RelativeDocumentMoniker": "ConexionODBC\\principal.cs",
+              "ToolTip": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\ConexionODBC\\principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConexionODBC\\principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T20:30:53.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\ConexionODBC\\Form1.cs",
+              "RelativeDocumentMoniker": "ConexionODBC\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\ConexionODBC\\Form1.cs",
+              "RelativeToolTip": "ConexionODBC\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:09:10.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\ConexionODBC\\Conexion.cs",
+              "RelativeDocumentMoniker": "ConexionODBC\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\ConexionODBC\\Conexion.cs",
+              "RelativeToolTip": "ConexionODBC\\Conexion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:53:40.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\ConexionODBC\\Form1.cs",
+              "RelativeDocumentMoniker": "ConexionODBC\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Sistema Asignaci\u00F3n de Cursos\\ConexionODBC\\ConexionODBC\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConexionODBC\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T00:54:40.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Sistema Asignación de Cursos\ConexionODBC\ConexionODBC\bin\Debug\ConexionODBC.exe.config
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Sistema Asignación de Cursos\ConexionODBC\ConexionODBC\bin\Debug\ConexionODBC.exe
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Sistema Asignación de Cursos\ConexionODBC\ConexionODBC\bin\Debug\ConexionODBC.pdb
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Sistema Asignación de Cursos\ConexionODBC\ConexionODBC\obj\Debug\ConexionODBC.csproj.AssemblyReference.cache
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Sistema Asignación de Cursos\ConexionODBC\ConexionODBC\obj\Debug\ConexionODBC.Form1.resources
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Sistema Asignación de Cursos\ConexionODBC\ConexionODBC\obj\Debug\ConexionODBC.Properties.Resources.resources
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Sistema Asignación de Cursos\ConexionODBC\ConexionODBC\obj\Debug\ConexionODBC.csproj.GenerateResource.cache
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Sistema Asignación de Cursos\ConexionODBC\ConexionODBC\obj\Debug\ConexionODBC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Sistema Asignación de Cursos\ConexionODBC\ConexionODBC\obj\Debug\ConexionODBC.exe
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Sistema Asignación de Cursos\ConexionODBC\ConexionODBC\obj\Debug\ConexionODBC.pdb
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Sistema Asignación de Cursos\ConexionODBC\ConexionODBC\obj\Debug\ConexionODBC.exe.config
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Sistema Asignación de Cursos\ConexionODBC\ConexionODBC\obj\Debug\ConexionODBC.principal.resources
